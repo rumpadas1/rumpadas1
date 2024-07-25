@@ -30,7 +30,7 @@ University of Calcutta
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Kali_Linux_Logo_2019.svg" alt="kali-linux" width="40" height="40"/>
-    <img
+    
 </p>
 
 ## Connect with Me
