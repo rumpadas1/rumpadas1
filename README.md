@@ -7,11 +7,6 @@
     🌟 Check out my projects and repositories to see what I've been working on!
 </p>
 
-## Education
-
-**Computer Science Student**  
-University of Calcutta
-
 ## Technologies and Tools
 
 <p align="left">
@@ -38,3 +33,8 @@ University of Calcutta
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
     </a>
 </p>
+
+## Education
+
+**Computer Science Student**  
+University of Calcutta
