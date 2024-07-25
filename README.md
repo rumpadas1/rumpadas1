@@ -1,24 +1,17 @@
-# Welcome to my GitHub profile 
-
-<p style="color:#4CAF50; font-size:24px;">
-    👋 Hi there! I'm <strong>Rumpa Das</strong>
-</p>
+# Hii I'm Rumpa Das
 
 <p style="color:#2196F3; font-size:18px;">
-    I'm passionate about programming and sharing knowledge with the community.
+    I'm passionate about programming, web development, and sharing knowledge with the community.
 </p>
 
 <p style="color:#FF5722; font-size:18px;">
     🌟 Check out my projects and repositories to see what I've been working on!
 </p>
 
-<p style="color:#9C27B0; font-size:18px;">
-    🤝 Feel free to explore and reach out if you have any questions or collaboration ideas.
-</p>
+## Education
 
-<p style="color:#E91E63; font-size:18px;">
-    Happy coding! 😊
-</p>
+**Computer Science Student**  
+University of Calcutta
 
 ## Technologies Known
 
@@ -32,6 +25,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="shell" width="40" height="40"/>
+    <img src="https://tailwindcss.com/_next/static/media/tailwindcss.79f3f702.svg" alt="tailwindcss" width="40" height="40"/>
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/>
+    <img src="https://nextjs.org/static/images/logo.png" alt="nextjs" width="40" height="40"/>
+    <img src="https://www.postman.com/images/postman-logo-2020.png" alt="postman" width="40" height="40"/>
 </p>
 
 ## Connect with Me
