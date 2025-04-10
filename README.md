@@ -1,6 +1,6 @@
 # Hii I'm Rumpa Das
 <p style="color:#2196F3; font-size:18px;">
-    👋I'm passionate about programming, web development, and sharing knowledge with the community.
+    👋I'm passionate about Machine Learning, AI, Web Development while sharing and learning knowledge with the community.
 </p>
 
 <p style="color:#FF5722; font-size:18px;">
