@@ -35,5 +35,5 @@
 
 ## Education
 
-**Computer Science Student**  
+**Bachelors Degree in Computer Science**  
 University of Calcutta
